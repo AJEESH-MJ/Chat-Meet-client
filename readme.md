@@ -28,15 +28,26 @@ Welcome to Your Chat Application Name! This is a real-time chat application buil
 
 To run this application, you need to set up both the frontend and backend. Follow these steps:
 
-# Frontend
-
 i. Make sure you have Node.js (https://nodejs.org/) and npm (Node Package Manager) installed on your machine.
 
-ii. Clone this repo
+ii. Clone both the frontend and backend repositories inside a common folder:
 
--git clone https://github.com/Ajeesh-MJ/Chat-Meet.git
+- Frontend Repository:
 
-iii. Install the required dependencies:
+-git clone https://github.com/AJEESH-MJ/Chat-Meet-client.git
+
+
+- Backend Repository:
+
+-git clone https://github.com/AJEESH-MJ/Chat-Meet-server.git
+
+
+
+iii. Install the required dependencies for both frontend and backend:
+
+# Frontend
+
+In the `Chat-Meet-client` directory, run:
 
 -npm install
 # or
